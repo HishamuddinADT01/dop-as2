@@ -1,1 +1,1 @@
-<img src="{{ asset('image/pblogo.png') }}" alt="Politeknik Brunei Logo" style="margin-bottom: 50px;">
+<img src= "{{ asset('image/pblogo.png') }}" alt="Laravel Logo" class="w-20 h-20 mb-6">
